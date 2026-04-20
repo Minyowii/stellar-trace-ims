@@ -59,6 +59,7 @@ Deletes a product from the inventory.
 ---
 
 ## 🚀 Build & Deploy
+<img width="2817" height="1435" alt="image" src="https://github.com/user-attachments/assets/e5f24a69-d1d2-429f-8ec4-8cea93c5eafb" />
 
 ### 1. Build Contract
 ```bash
@@ -68,4 +69,4 @@ stellar contract deploy \
   --source alice \
   --network testnet
   Contract ID: CBLEFNS35VBPNJ7SJ46NDCKLOBHM6ZG2IWYJHJCVWQ444LKUI4PLJTMN
-  <img width="2817" height="1435" alt="image" src="https://github.com/user-attachments/assets/830106ac-a895-4aa0-9214-8050ee6e5144" />
+
