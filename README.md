@@ -68,3 +68,4 @@ stellar contract deploy \
   --source alice \
   --network testnet
   Contract ID: CBLEFNS35VBPNJ7SJ46NDCKLOBHM6ZG2IWYJHJCVWQ444LKUI4PLJTMN
+  <img width="2817" height="1435" alt="image" src="https://github.com/user-attachments/assets/830106ac-a895-4aa0-9214-8050ee6e5144" />
